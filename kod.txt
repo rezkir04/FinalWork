@@ -1,4 +1,4 @@
-ddddint main{
+ddddddddint main{
 printf
 scanf
 return;
